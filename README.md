@@ -1,2 +1,9 @@
 # silver-umbrella
-This is my personal portfolio website that displays my career in the long run. What roles I played, what stacks I used, what tools I know and what domain I worked with. All about me.
+
+Personal portfolio—career narrative, roles, stacks, tools, and domains.
+
+The site lives in [`portfolio/`](portfolio/): **Vite**, **React**, **React Router**, **Tailwind CSS v4**. To run locally:
+
+```bash
+cd portfolio && npm install && npm run dev
+```
