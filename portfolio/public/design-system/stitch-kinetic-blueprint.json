@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "Snapshot of Stitch design system for project 3600686482785119945 (Kinetic Blueprint). Re-fetch via Stitch MCP list_design_systems to update.",
+  "stitchProjectId": "3600686482785119945",
+  "assetName": "assets/3e36f22917a945a1b705be5044e83f3f",
+  "displayName": "Kinetic Blueprint",
+  "theme": {
+    "colorMode": "LIGHT",
+    "headlineFont": "SPACE_GROTESK",
+    "bodyFont": "MANROPE",
+    "labelFont": "MANROPE",
+    "roundness": "ROUND_FOUR",
+    "colorVariant": "VIBRANT",
+    "customColor": "#0F172A",
+    "spacingScale": 3,
+    "overridePrimaryColor": "#0F172A",
+    "overrideSecondaryColor": "#0D9488",
+    "overrideTertiaryColor": "#6366F1",
+    "overrideNeutralColor": "#F8FAFC"
+  }
+}
